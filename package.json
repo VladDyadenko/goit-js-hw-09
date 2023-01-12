@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VladDyadenko/goit-js-hw-08"
+    "url": "git+https://github.com/VladDyadenko/goit-js-hw-09"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VladDyadenko/goit-js-hw-08/issues"
+    "url": "https://github.com/VladDyadenko/goit-js-hw-09/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
