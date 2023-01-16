@@ -34,3 +34,6 @@ function activeBtnStart(){
     startBtn.disabled = true;
     stopBtn.disabled = false;
 }
+
+
+
