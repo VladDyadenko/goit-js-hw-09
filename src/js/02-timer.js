@@ -48,7 +48,7 @@ flatpickr(inputDate, options);
 
 function getChangTimerValue(value){
   
-    let timerId = setInterval(() => {
+    timerId = setInterval(() => {
         const currentDay = new Date();
        
         let countdown = new Date(refs.inputDate.value) - currentDay;
